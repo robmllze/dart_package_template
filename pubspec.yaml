@@ -13,11 +13,11 @@
 
 name: dart_package_template
 homepage: https://dev-cetera.com/
-repository: https://github.com/t0mb3rr/dart_package_template
+repository: https://github.com/robelator/dart_package_template
 funding:
   - https://www.buymeacoffee.com/dev_cetera
-  - https://www.patreon.com/c/t0mb3rr
-  - https://github.com/sponsors/t0mb3rr
+  - https://www.patreon.com/c/robelator
+  - https://github.com/sponsors/robelator
 description: A starting point for Dart or Flutter packages.
 version: 0.1.1
 topics:
